@@ -1,6 +1,6 @@
 # React-Day_2-Classwork 🌐
 
-[Live Demo:]()
+[Live Demo:](https://avantikasingh2110.github.io/React-Day_2-Classwork/)
 
 ## 📖 Project Description
 
